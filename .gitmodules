@@ -1,9 +1,10 @@
-[submodule "databaseDesign-standards"]
-	path = databaseDesign-standards
-	url = https://github.com/kashi-yukihito/databaseDesign-standards
+
 [submodule "backend-stantard"]
 	path = backend-stantard
 	url = https://github.com/kashi-yukihito/backend-stantard
 [submodule "frontend-standard"]
 	path = frontend-standard
 	url = https://github.com/kashi-yukihito/frontend-standard
+[submodule "database-design-standard"]
+	path = database-design-standard
+	url = https://github.com/kashi-yukihito/database-design-standard
